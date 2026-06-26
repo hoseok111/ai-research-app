@@ -307,7 +307,7 @@ with st.sidebar:
 
     # 🌟 [추가된 기능] 사용자들이 앱 안에서 직접 보는 사용 설명서
     st.divider()
-    with st.sidebar.expander("📖 앱 사용 설명서 (클릭해서 열기)", expanded=False):
+    with st.expander("📖 앱 사용 설명서 (클릭해서 열기)", expanded=False):
         st.markdown("""
         ### 1. AI 엔진 선택
         * 왼쪽 메뉴에서 **AI 메인 엔진**을 고르고 API 키를 입력하세요.

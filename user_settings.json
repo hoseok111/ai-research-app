@@ -1,0 +1,93 @@
+{
+    "news_count": 5,
+    "paper_count": 5,
+    "youtube_count": 1,
+    "site_count": 3,
+    "topics": [
+        {
+            "id": 1,
+            "enabled": true,
+            "keyword": "인공지능",
+            "urls": [
+                "aitimes.com",
+                "venturebeat.com",
+                "technologyreview.com",
+                "marktechpost.com",
+                "arxiv.org",
+                "deepmind.google",
+                "openai.com",
+                "huggingface.co",
+                "paperswithcode.com",
+                "towardsdatascience.com"
+            ]
+        },
+        {
+            "id": 2,
+            "enabled": true,
+            "keyword": "피지컬 AI",
+            "urls": [
+                "spectrum.ieee.org",
+                "robohub.org",
+                "therobotreport.com",
+                "news.mit.edu",
+                "science.org",
+                "techcrunch.com",
+                "nature.com",
+                "engineering.com",
+                "bostondynamics.com",
+                "roboticstomorrow.com"
+            ]
+        },
+        {
+            "id": 3,
+            "enabled": true,
+            "keyword": "인공지능 윤리기준",
+            "urls": [
+                "hai.stanford.edu",
+                "oii.ox.ac.uk",
+                "safe.ai",
+                "eff.org",
+                "ainowinstitute.org",
+                "acm.org",
+                "partnershiponai.org",
+                "brookings.edu",
+                "techpolicy.press",
+                "aitimes.kr"
+            ]
+        },
+        {
+            "id": 4,
+            "enabled": true,
+            "keyword": "MRO",
+            "urls": [
+                "aviationweek.com",
+                "smartindustry.com",
+                "plantengineering.com",
+                "industryweek.com",
+                "reliableplant.com",
+                "manufacturingdive.com",
+                "iotworldtoday.com",
+                "advancedmanufacturing.org",
+                "supplychaindigital.com",
+                "weforum.org"
+            ]
+        },
+        {
+            "id": 5,
+            "enabled": true,
+            "keyword": "인공지능 정책",
+            "urls": [
+                "spri.kr",
+                "nia.or.kr",
+                "oecd.ai",
+                "csis.org",
+                "datainnovation.org",
+                "itif.org",
+                "carnegieendowment.org",
+                "lawfaremedia.org",
+                "scienceandtechnology.ieee.org",
+                "lawtimes.co.kr"
+            ]
+        }
+    ]
+}
